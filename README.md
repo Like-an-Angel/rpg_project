@@ -1,2 +1,1 @@
-# rpg_project
-RPGgame
+Simple console RPG game
